@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alwaysbe
-- 👀 I’m interested in coin
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
